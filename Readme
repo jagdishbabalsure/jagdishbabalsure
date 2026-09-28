@@ -1,0 +1,201 @@
+<!-- ======================= HEADER ======================= -->
+
+<div align="center">
+
+# 👋 Hi, I'm Jagdish Babalsure
+
+### Computer Engineering Student | Full-Stack Developer | Problem Solver
+
+<p>
+  <a href="https://github.com/jagdishbabalsure">
+    <img src="https://img.shields.io/badge/GitHub-jagdishbabalsure-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jagdish-babalsure-66338a2a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jagdish%20Babalsure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jagdishbabalsure&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Jagdish Babalsure**, a Computer Engineering student at **MIT Academy of Engineering, Pune**, graduating in **2027**.
+
+I'm interested in **software development, backend development, full-stack development, problem-solving, and emerging technologies**.
+
+I enjoy building web applications and learning new technologies through academic projects, internships, and personal projects.
+
+- 🎓 B.Tech Computer Engineering — MIT Academy of Engineering, Pune
+- 💻 Interested in Full-Stack & Backend Development
+- 🌱 Currently working with Java, Spring Boot, React.js and databases
+- 🧩 Practicing Data Structures & Algorithms
+- 🔢 369+ problems solved on LeetCode
+- ☁️ AWS Certified Cloud Practitioner
+- 🏆 Selected for Super-30 technical training at MITAOE
+- 👥 Executive Member — ACM Student Chapter, MITAOE
+- 🔬 Exploring Artificial Intelligence & Machine Learning
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,sql" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
+
+`Spring Boot` • `REST APIs` • `JPA/Hibernate` • `JWT` • `API Development`
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 StayLio — Hotel Booking & Management Platform
+
+A full-stack hotel booking and management platform with role-based functionality for users, hotel owners and administrators.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React.js` `MySQL` `JPA/Hibernate` `JWT` `Docker` `Jenkins`
+
+---
+
+### 🛒 Grocito — Grocery Delivery System
+
+A full-stack grocery delivery application developed using Spring Boot, React.js and MySQL with backend APIs and role-based functionality.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React.js` `MySQL` `REST APIs`
+
+---
+
+### 📊 Project Monitoring & Productivity Analytics
+
+A project monitoring system designed to manage projects and tasks while providing real-time project activity and productivity information.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React.js` `MongoDB` `WebSocket` `Docker`
+
+---
+
+### 🌊 AquaAlert — Urban Flood Risk Prediction
+
+An AI-based urban flood risk prediction and early warning system exploring rainfall forecasting, environmental factors and computer vision.
+
+**Tech Stack**
+
+`Python` `LSTM` `XGBoost` `ResNet50` `U-Net` `Grad-CAM`
+
+---
+
+### 👁️ AI-Based Glaucoma Detection
+
+A deep learning research project focused on glaucoma detection using retinal fundus images and deep learning-based classification and segmentation approaches.
+
+**Tech Stack**
+
+`Python` `Deep Learning` `Computer Vision` `CNN` `YOLO` `U-Net`
+
+---
+
+### 🤖 RAG Chatbot Microservice
+
+A retrieval-augmented generation based document search microservice developed using FastAPI and a vector database.
+
+**Tech Stack**
+
+`Python` `FastAPI` `RAG` `ChromaDB` `REST API`
+
+---
+
+## 💼 Experience
+
+### Full Stack Web Development Intern
+**NIRA Industries**
+
+Worked on web development using React.js and Firebase, including authentication, database integration, admin functionality and dynamic content management.
+
+**Technologies:**  
+`React.js` `Firebase` `Firestore` `Cloud Functions` `Vite` `Vercel`
+
+---
+
+### Full Stack Web Developer Intern
+**Campus Credentials**
+
+Worked on a full-stack grocery delivery platform and developed backend REST APIs using Spring Boot with database integration, authentication and frontend integration.
+
+**Technologies:**  
+`Java` `Spring Boot` `Hibernate/JPA` `MySQL` `React.js` `JWT` `Docker`
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Selected for **Super-30 Batch** at MIT Academy of Engineering
+- 👥 Executive Member — **ACM Student Chapter, MITAOE**
+- 🧩 Solved **369+ problems on LeetCode**
+- ☁️ **AWS Certified Cloud Practitioner — CLF-C02**
+- 🏅 **SQL (Intermediate)** — HackerRank
+
+---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java & Spring Boot
+        ↓
+REST API Development
+        ↓
+React.js & Full-Stack Development
+        ↓
+Databases & System Design
+        ↓
+Cloud & DevOps
+        ↓
+AI / ML & Emerging Technologies
