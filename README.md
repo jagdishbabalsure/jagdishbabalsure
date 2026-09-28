@@ -1,5 +1,3 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
 # 👋 Hi, I'm Jagdish Babalsure
@@ -13,7 +11,7 @@
   <a href="https://www.linkedin.com/in/jagdish-babalsure-66338a2a8/">
     <img src="https://img.shields.io/badge/LinkedIn-Jagdish%20Babalsure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://jagdish-portfolio-livid.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -51,33 +49,46 @@ I enjoy building web applications and learning new technologies through academic
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,sql" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js" alt="Programming Languages"/>
+</p>
+
+<p>
+  <code>Java</code>
+  <code>C++</code>
+  <code>JavaScript</code>
+  <code>SQL</code>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Backend Technologies"/>
 </p>
 
-`Spring Boot` • `REST APIs` • `JPA/Hibernate` • `JWT` • `API Development`
+<p>
+  <code>Spring Boot</code>
+  <code>REST APIs</code>
+  <code>JPA/Hibernate</code>
+  <code>JWT</code>
+  <code>API Development</code>
+</p>
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="Frontend Technologies"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases"/>
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,postman" alt="Cloud, DevOps and Tools"/>
 </p>
 
 ---
@@ -147,55 +158,157 @@ A retrieval-augmented generation based document search microservice developed us
 ## 💼 Experience
 
 ### Full Stack Web Development Intern
+
 **NIRA Industries**
 
 Worked on web development using React.js and Firebase, including authentication, database integration, admin functionality and dynamic content management.
 
-**Technologies:**  
+**Technologies**
+
 `React.js` `Firebase` `Firestore` `Cloud Functions` `Vite` `Vercel`
 
 ---
 
 ### Full Stack Web Developer Intern
+
 **Campus Credentials**
 
 Worked on a full-stack grocery delivery platform and developed backend REST APIs using Spring Boot with database integration, authentication and frontend integration.
 
-**Technologies:**  
+**Technologies**
+
 `Java` `Spring Boot` `Hibernate/JPA` `MySQL` `React.js` `JWT` `Docker`
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Selected for **Super-30 Batch** at MIT Academy of Engineering
+- 🏆 Selected for **Super-30 technical training at MITAOE**
 - 👥 Executive Member — **ACM Student Chapter, MITAOE**
 - 🧩 Solved **369+ problems on LeetCode**
 - ☁️ **AWS Certified Cloud Practitioner — CLF-C02**
-- 🏅 **SQL (Intermediate)** — HackerRank
+- 🏅 **SQL (Intermediate) — HackerRank**
 
 ---
 
 ## 📜 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
+
+<img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL"/>
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Java & Spring Boot
-        ↓
-REST API Development
-        ↓
-React.js & Full-Stack Development
-        ↓
-Databases & System Design
-        ↓
-Cloud & DevOps
-        ↓
-AI / ML & Emerging Technologies
+<div align="center">
+
+**Java & Spring Boot**  
+↓  
+**REST API Development**  
+↓  
+**React.js & Full-Stack Development**  
+↓  
+**Databases & Software Engineering**  
+↓  
+**Cloud & DevOps**  
+↓  
+**AI / ML & Emerging Technologies**
+
+</div>
+
+I'm continuously improving my **Data Structures & Algorithms, backend development, software engineering fundamentals, and problem-solving skills**.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jagdishbabalsure&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishbabalsure&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jagdishbabalsure&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🎯 Goals
+
+- 📌 Strengthen Data Structures & Algorithms
+- 📌 Improve backend development with Spring Boot
+- 📌 Build stronger software engineering fundamentals
+- 📌 Learn system design fundamentals
+- 📌 Explore cloud-native technologies
+- 📌 Contribute to open-source projects
+- 📌 Continue exploring AI/ML
+- 📌 Build and deploy practical applications
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://jagdish-portfolio-livid.vercel.app/">
+
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-111111?style=for-the-badge" alt="Visit Portfolio"/>
+
+</a>
+
+<br/>
+<br/>
+
+<a href="https://jagdish-portfolio-livid.vercel.app/">
+  https://jagdish-portfolio-livid.vercel.app/
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jagdish-babalsure-66338a2a8/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://jagdish-portfolio-livid.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:jagdishbabalsure@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/jagdishbabalsure">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep learning. Keep building. Keep improving.**
+
+</div>
