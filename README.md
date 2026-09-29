@@ -1,6 +1,3 @@
-Copy the following code into your GitHub profile repository’s `README.md` file:
-
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Jagdish Babalsure
@@ -329,13 +326,6 @@ I am continuously improving my **Data Structures and Algorithms, backend develop
 **Keep learning. Keep building. Keep improving.**
 
 </div>
-```
-
-Create a public repository with the **exact same name as your GitHub username**:
-
-```text
-jagdishbabalsure
-```
 
 Then add the file as:
 
